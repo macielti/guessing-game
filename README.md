@@ -1,6 +1,6 @@
 # guessing-game
 It is a simple game to put in practice my knowledge about Java.
-The game consist in guess a number from 0 to 100.
+The game consist in guess a number from 1 to 100.
 
 ![Demo Image](demo.png)
 
